@@ -15,7 +15,7 @@
 
 Fresh approach to Machine Learning in PHP. Algorithms, Cross Validation, Neural Network, Preprocessing, Feature Extraction and much more in one library.
 
-PHP-ML requires PHP >= 7.1.
+PHP-ML requires PHP >= 7.1
 
 Simple example of classification:
 ```php
